@@ -1,0 +1,1 @@
+The "Bets" game, communication via UART
